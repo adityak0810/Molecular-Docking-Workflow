@@ -1,4 +1,4 @@
-# Molecular Docking Workflow
+# Molecular Docking Pipeline
 
 Demostration of molecular docking pipeline: protein preparation, ligand preparation, docking with AutoDock Vina.
 
